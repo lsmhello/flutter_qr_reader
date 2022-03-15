@@ -35,5 +35,5 @@ android {
 
 
 dependencies {
-    provided('com.google.zxing:core:3.3.3')
+      provided('com.google.zxing:core:3.3.3')
 }
