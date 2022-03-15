@@ -26,3 +26,12 @@
 
 解决scanBoxRatio无效问题
 
+## 1.0.4
+
+* 支持Null safety
+* UI界面独立
+
+## 1.0.5
+
+* 支持Null safety
+* UI界面独立

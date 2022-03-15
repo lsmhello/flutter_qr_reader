@@ -1,21 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="864750cc-9998-4fa7-90aa-bfe0a5be0189" name="Default Changelist" comment="">
+    <list default="true" id="864750cc-9998-4fa7-90aa-bfe0a5be0189" name="Default Changelist" comment="compileOnly">
+      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/reader/DecodeFormatManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/reader/MyMultiFormatOneDReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/reader/MyMultiFormatReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/reader/MyPlanarYUVLuminanceSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/reader/MyRGBLuminanceSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/google/zxing/client/android/camera/AutoFocusManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/google/zxing/client/android/camera/AutoFocusManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/google/zxing/client/android/camera/CameraManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/google/zxing/client/android/camera/CameraManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/google/zxing/client/android/camera/open/OpenCameraInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/google/zxing/client/android/camera/open/OpenCameraInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/FlutterQrReaderPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/FlutterQrReaderPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/QRCodeDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/QRCodeDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/factorys/QrReaderFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/factorys/QrReaderFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/readerView/QRCodeReaderView.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/readerView/QRCodeReaderView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/views/QrReaderView.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/views/QrReaderView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/example/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/example/.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/java/me/hetian/flutter_qr_reader_example/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/src/main/java/me/hetian/flutter_qr_reader_example/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.m" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/scanViewDemo.dart" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/test/widget_test.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flutter_qr_reader.iml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_qr_reader.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ios/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/FlutterQrReaderPlugin.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/FlutterQrReaderPlugin.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/QrReaderViewController.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/QrReaderViewController.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/flutter_qr_reader.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/ios/flutter_qr_reader.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/flutter_qr_reader.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/flutter_qr_reader.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/qrcode_reader_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/qrcode_reader_view.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/flutter_qr_reader_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/flutter_qr_reader_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -40,19 +102,27 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -65,39 +135,54 @@
       <updated>1559875859613</updated>
       <workItem from="1582969542169" duration="2877000" />
     </task>
+    <task id="LOCAL-00001" summary="compileOnly">
+      <created>1647313098037</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647313098037</updated>
+    </task>
+    <task id="LOCAL-00002" summary="compileOnly">
+      <created>1647313218826</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647313218826</updated>
+    </task>
+    <task id="LOCAL-00003" summary="compileOnly">
+      <created>1647313586442</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647313586442</updated>
+    </task>
+    <task id="LOCAL-00004" summary="compileOnly">
+      <created>1647313970100</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1647313970100</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="550" y="330" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582969601860">
-      <screen x="0" y="23" width="1440" height="831" />
-    </state>
-    <state x="550" y="330" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.831@0.23.1440.831" timestamp="1582969601860" />
-    <state width="1360" height="204" key="GridCell.Tab.0.bottom" timestamp="1583042143247">
-      <screen x="0" y="23" width="1440" height="831" />
-    </state>
-    <state width="1360" height="204" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1583042143247" />
-    <state width="1360" height="204" key="GridCell.Tab.0.center" timestamp="1583042143246">
-      <screen x="0" y="23" width="1440" height="831" />
-    </state>
-    <state width="1360" height="204" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1583042143246" />
-    <state width="1360" height="204" key="GridCell.Tab.0.left" timestamp="1583042143246">
-      <screen x="0" y="23" width="1440" height="831" />
-    </state>
-    <state width="1360" height="204" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1583042143246" />
-    <state width="1360" height="204" key="GridCell.Tab.0.right" timestamp="1583042143247">
-      <screen x="0" y="23" width="1440" height="831" />
-    </state>
-    <state width="1360" height="204" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1583042143247" />
-    <state x="202" y="73" key="SettingsEditor" timestamp="1583035081192">
-      <screen x="0" y="23" width="1440" height="831" />
-    </state>
-    <state x="202" y="73" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1583035081192" />
-    <state x="359" y="191" width="684" height="486" key="find.popup" timestamp="1583035392955">
-      <screen x="0" y="23" width="1440" height="831" />
-    </state>
-    <state x="359" y="191" width="684" height="486" key="find.popup/0.23.1440.831@0.23.1440.831" timestamp="1583035392955" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="compileOnly" />
+    <option name="LAST_COMMIT_MESSAGE" value="compileOnly" />
   </component>
 </project>
