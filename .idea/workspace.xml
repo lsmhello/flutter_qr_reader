@@ -4,73 +4,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="864750cc-9998-4fa7-90aa-bfe0a5be0189" name="Default Changelist" comment="compileOnly">
-      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/reader/DecodeFormatManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/reader/MyMultiFormatOneDReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/reader/MyMultiFormatReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/reader/MyPlanarYUVLuminanceSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/reader/MyRGBLuminanceSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="864750cc-9998-4fa7-90aa-bfe0a5be0189" name="Default Changelist" comment="delete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/google/zxing/client/android/camera/AutoFocusManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/google/zxing/client/android/camera/AutoFocusManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/google/zxing/client/android/camera/CameraManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/google/zxing/client/android/camera/CameraManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/google/zxing/client/android/camera/open/OpenCameraInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/google/zxing/client/android/camera/open/OpenCameraInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/FlutterQrReaderPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/FlutterQrReaderPlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/QRCodeDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/QRCodeDecoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/factorys/QrReaderFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/factorys/QrReaderFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/readerView/QRCodeReaderView.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/readerView/QRCodeReaderView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/views/QrReaderView.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/views/QrReaderView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/example/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/example/.metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/java/me/hetian/flutter_qr_reader_example/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/src/main/java/me/hetian/flutter_qr_reader_example/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/Debug.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/Release.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.m" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/scanViewDemo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/test/widget_test.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_qr_reader.iml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_qr_reader.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ios/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Classes/FlutterQrReaderPlugin.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/FlutterQrReaderPlugin.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Classes/QrReaderViewController.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/QrReaderViewController.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/flutter_qr_reader.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/ios/flutter_qr_reader.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/flutter_qr_reader.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/flutter_qr_reader.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/qrcode_reader_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/qrcode_reader_view.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/flutter_qr_reader_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/flutter_qr_reader_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/readerView/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/me/hetian/flutter_qr_reader/readerView/SimpleLog.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647313970100</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="delete">
+      <created>1647342256998</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1647342256998</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +128,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="compileOnly" />
-    <option name="LAST_COMMIT_MESSAGE" value="compileOnly" />
+    <MESSAGE value="delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete" />
   </component>
 </project>
