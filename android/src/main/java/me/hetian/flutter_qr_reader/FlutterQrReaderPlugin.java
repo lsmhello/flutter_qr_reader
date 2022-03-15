@@ -17,7 +17,6 @@ import io.flutter.plugin.common.MethodChannel;
 import io.flutter.plugin.common.MethodChannel.MethodCallHandler;
 import io.flutter.plugin.common.MethodChannel.Result;
 import io.flutter.plugin.common.PluginRegistry.Registrar;
-import me.hetian.flutter_qr_reader.factorys.QrReaderFactory;
 
 /**
  * FlutterQrReaderPlugin
