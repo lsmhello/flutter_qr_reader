@@ -24,7 +24,6 @@ import io.flutter.plugin.common.PluginRegistry.Registrar;
 public class FlutterQrReaderPlugin implements FlutterPlugin, MethodCallHandler, ActivityAware {
 
     private static final String CHANNEL_NAME = "me.hetian.plugins/flutter_qr_reader";
-    private static final String CHANNEL_VIEW_NAME = "me.hetian.plugins/flutter_qr_reader/reader_view";
 
     private MethodChannel channel;
 
@@ -34,8 +33,6 @@ public class FlutterQrReaderPlugin implements FlutterPlugin, MethodCallHandler, 
     public void onAttachedToEngine(@NonNull FlutterPluginBinding binding) {
         channel = new MethodChannel(binding.getBinaryMessenger(), CHANNEL_NAME);
         channel.setMethodCallHandler(this);
-
-      //  binding.getPlatformViewRegistry().registerViewFactory(CHANNEL_VIEW_NAME, new QrReaderFactory(binding.getBinaryMessenger()));
     }
 
     @Override
